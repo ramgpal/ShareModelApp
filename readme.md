@@ -9,9 +9,9 @@ To use this app, simply download or clone the repository to your local machine.
  https://github.com/ramgpal/ShareModelApp.git
 
 ## Simple UI
-<img src=".Assets/App1.png" alt="ShareModelApp">
+<img src="App1.png" alt="ShareModelApp">
 
 ## Share button
-<img src=".Assets/app.png" alt="ShareModelApp">
+<img src="app.png" alt="ShareModelApp">
 
 
