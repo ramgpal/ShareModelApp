@@ -11,7 +11,7 @@ To use this app, simply download or clone the repository to your local machine.
 ## Simple UI
 <img src="App1.png" alt="ShareModelApp">
 
-## Share button
+## After clicking on 'Share My Profile' option
 <img src="app.png" alt="ShareModelApp">
 
 
